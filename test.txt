@@ -64,4 +64,4 @@ const getAllBlogFromDb = async (query: Record<string, unknown>) => {
   //   searchQuery = searchQuery.sort(sortStr);
   // }
   // return searchQuery;
-  0..
+  0...
